@@ -7,7 +7,7 @@ const brennon = {
     favoriteNumber: 7,
     somethingFalse: false,
     anArray: [],
-    sayHiMethod: function() {
+    sayHiMethod: function() { // method
         return "Hi Everyone!";
     },
     thisExample: function() {

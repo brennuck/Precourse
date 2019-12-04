@@ -1,5 +1,9 @@
 {
   "name": "lambdaschoolprecourse",
+  "jest": {
+    "verbose": true,
+    "testURl": "http://localhost/"
+  },
   "version": "1.0.0",
   "description": "This repo contains the instruction material and assignments for Lambda School's `Web Dev 101 Mini Bootcamp`.",
   "main": "index.js",
@@ -18,6 +22,6 @@
   "homepage": "https://github.com/lambdaschool/precourse#readme",
   "devDependencies": {
     "eslint": "^4.13.1",
-    "jest": "^22.0.3"
+    "jest": "^22.4.4"
   }
 }
